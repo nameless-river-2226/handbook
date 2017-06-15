@@ -4,12 +4,12 @@ Nameless River is a partnership of digital creatives in Taiwan. This handbook is
 
 ## Presentation [WIP]
 
--[Vision]() [WIP]
--[Types of projects we work for]() [WIP]
--[Features we offer]() [WIP]
--[Technologies we specialise in]() [WIP]
--[Processes we adopt]() [WIP]
--[Open-source works]() [WIP]
+- [Vision]() [WIP]
+- [Types of projects we work for]() [WIP]
+- [Features we offer]() [WIP]
+- [Technologies we specialise in]() [WIP]
+- [Processes we adopt]() [WIP]
+- [Open-source works]() [WIP]
 
 ## They paved our roads [WIP]
 
